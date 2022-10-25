@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Praia Limpa
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido em um hackathon com a proposta de causa ESG para uma empresa.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Praia Limpa**
+| :label: Tecnologias | javascript, html, nodejs, css, mongodb (tecnologias utilizadas)
+| :rocket: URL         | [https://boiling-gorge-96162.herokuapp.com/praia-limpa#top]
+| :fire: Desafio     | [https://github.com/ElmineiroStone/Hackaton_soulcode]
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://drive.google.com/file/d/15xJ3KEXrU08vcCJas7woFxDLfXexFunY/view?usp=sharing#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto vencedor do terceiro lugar no primeiro hackathon de ESG do Brasil elaborado pela soucode academy.
